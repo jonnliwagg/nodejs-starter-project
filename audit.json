@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230041457,
+            "name": "C:\\Users\\liwjo\\Downloads\\Bootcamp 2 Files\\nodejs-starter\\logs\\access.2023-06-20.log",
+            "hash": "d0cbb80a03a36f5dafc913835cbe501f"
+        },
+        {
+            "date": 1687307519600,
+            "name": "C:\\Users\\liwjo\\Downloads\\Bootcamp 2 Files\\nodejs-starter\\logs\\access.2023-06-21.log",
+            "hash": "7852dee3b24aa5be845e9fbbd4279bf2"
+        }
+    ]
+}
